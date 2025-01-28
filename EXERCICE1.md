@@ -18,6 +18,6 @@
 ### nano etc/fstab/ ajouter dans la dernière ligne
 ### UUID=b56cb481-a6aa-437d-9bb6-be72412ada3c /mnt/DATA ext4 par défaut 0 2 UUID=fd5ec5e9-b8c7-4333-a498-d944ccb43f98 aucun swap sw 0 0 mkdir -p /mnt/DATA mount /mnt/DATA
 # VÉRIFICATION: 
-Lsblk -f
+### Lsblk -f
 ![Capture d'écran 2025-01-28 114052](https://github.com/user-attachments/assets/aa539aeb-5727-4b96-982c-74fd8dfff407)
 
